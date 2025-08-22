@@ -12,7 +12,7 @@ export function Resume() {
             Download my complete resume or view a summary of my professional experience and education.
           </p>
           <a 
-           href="https://drive.google.com/file/d/1OKJEOTSvL09ziBWEbkHVH9mASdl9-IyA/view?usp=drive_link">
+           href="https://drive.google.com/file/d/1bb6HOB-qVmoOK4Vr27ftXTxlmYUdDHfd/view?usp=drive_link">
           <Button size="lg" className="bg-blue-600 hover:bg-blue-700">
             <Download className="mr-2 h-4 w-4" />
             Download Full Resume (PDF)

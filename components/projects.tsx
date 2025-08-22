@@ -16,16 +16,16 @@ const projects = [
     demoUrl: "https://speech-to-text-pearl-iota.vercel.app/",
     image: "/text.jpg?height=200&width=400",
   },
-  // {
-  //   title: "Smart Healthcare Analytics",
-  //   description:
-  //     "Comprehensive healthcare data analytics platform with patient management, appointment scheduling, and real-time health monitoring dashboards.",
-  //   icon: <Activity className="h-6 w-6" />,
-  //   technologies: ["React", "Node.js", "MongoDB", "Express", "Chart.js", "Socket.io"],
-  //   githubUrl: "https://github.com/ashutoshyadav/healthcare-analytics",
-  //   demoUrl: "https://healthcare-analytics-demo.vercel.app",
-  //   image: "/placeholder.svg?height=200&width=400",
-  // },
+  {
+    title: "Storify",
+    description:
+      "A cloud-based file management system inspired by Google Drive, featuring authentication, file sharing, and collaborative access.",
+    icon: <Activity className="h-6 w-6" />,
+  technologies: ["React", "Node.js", "Supabase", "Express", "Tailwind CSS", "JWT", "Vite",],
+    githubUrl: "https://github.com/iashutoshyadav/Google-Drive-Clone",
+    demoUrl: "https://google-drive-clone-green.vercel.app/",
+    image: "/google.png?height=250&width=400",
+  },
   // {
   //   title: "Hotel Booking System",
   //   description:
