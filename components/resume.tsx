@@ -34,7 +34,7 @@ export function Resume() {
             <CardContent className="space-y-6">
               <div className="border-l-2 border-blue-200 pl-4">
                 <h3 className="font-semibold text-gray-900">Frontend Developer</h3>
-                <p className="text-blue-600 text-sm">Labmentix Pvt.Ltd •  2025</p>
+                <p className="text-blue-600 text-sm">CodSoft • 2025</p>
                 <ul className="mt-2 text-sm text-gray-600 space-y-1">
                   <li>• Built responsive web applications using React.js and TypeScript</li>
                   <li>• Integrated REST APIs and implemented state management</li>
