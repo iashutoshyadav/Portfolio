@@ -12,7 +12,7 @@ export default function Contact() {
         const formData = new FormData(e.target);
 
         try {
-            const response = await fetch("https://formsubmit.co/ajax/ay0754416@gmail.com", {
+            const response = await fetch(`https://formsubmit.co/ajax/${import.meta.env.VITE_CONTACT_EMAIL}`, {
                 method: "POST",
                 body: formData
             });
@@ -20,7 +20,7 @@ export default function Contact() {
             if (response.ok) {
                 setShowSuccess(true);
                 e.target.reset();
-                setTimeout(() => setShowSuccess(false), 5000); // Auto hide after 5s
+                setTimeout(() => setShowSuccess(false), 5000);
             } else {
                 alert("Something went wrong. Please try again.");
             }
