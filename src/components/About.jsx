@@ -12,12 +12,12 @@ export default function About() {
             <section className="text-light-gray text-base md:text-lg leading-relaxed space-y-6 mb-14 font-light">
                 <div className="glass-card p-6 md:p-8 rounded-2xl">
                     <p className="mb-6">
-                        I'm a <b className="text-white font-semibold">Full Stack Engineer</b> from India with experience building scalable digital products and intelligent applications.
+                        I'm a <b className="text-white font-semibold">Full Stack Developer</b> from India with strong skills in building scalable digital products and intelligent applications.
                         I focus on engineering solutions that merge Generative AI with solid system architecture to solve practical, real-world problems.
                     </p>
                     <p>
-                        I develop software that prioritizes performance, security, and ease of use. My work is guided by data and optimization, ensuring applications are fast, efficient, and reliable.
-                        I’ve contributed to impactful projects for global brands like Nestlé as well as innovative early-stage startups.
+                        I develop efficient and secure software solutions with a focus on performance and user experience.
+                        My work is guided by data-driven insights and optimization practices to deliver reliable, scalable applications.
                     </p>
                 </div>
             </section>
