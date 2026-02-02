@@ -24,7 +24,7 @@ export default function Projects() {
             category: "Web Development",
             image: "https://plus.unsplash.com/premium_photo-1706281895733-b685a6435d27?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRhc2slMjBmbG93fGVufDB8fDB8fHww",
             github: "https://github.com/iashutoshyadav/TaskManger",
-            live: "https:/www.tokoai.in",
+            live: "https://www.tokoai.in",
         },
     ];
 
